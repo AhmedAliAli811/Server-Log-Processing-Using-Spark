@@ -14,4 +14,9 @@
         <name>dfs.datanode.data.dir</name>
         <value>file:///tmp/hadoop-root/dfs/data</value>
     </property>
+    
+    <property>
+        <name>dfs.webhdfs.enabled</name>
+        <value>true</value>
+    </property>
 </configuration>
